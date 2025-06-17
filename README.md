@@ -10,7 +10,6 @@ Une collection complète de scripts d'automatisation système pour Unix, Windows
 - [Fonctionnalités](#-fonctionnalités)
 - [Installation](#-installation)
 - [Utilisation](#-utilisation)
-- [Structure du projet](#-structure-du-projet)
 - [Scripts disponibles](#-scripts-disponibles)
 - [Contribuer](#-contribuer)
 - [Licence](#-licence)
@@ -154,23 +153,6 @@ windows\batch\launch-dev-env.bat
 ./cross-platform/sync-folders.sh /source /destination
 ```
 
-## 📁 Structure du projet
-
-```
-System-Scripts/
-├── unix/                    # Scripts Unix/Linux
-│   ├── dev/                # Scripts de développement
-│   ├── original/           # Scripts utilitaires
-│   ├── security/           # Scripts de sécurité
-│   └── system/             # Scripts système
-├── windows/                # Scripts Windows
-│   ├── batch/              # Scripts .bat
-│   └── powershell/         # Scripts PowerShell
-│       ├── admin/          # Scripts d'administration
-│       └── system/         # Scripts système
-├── cross-platform/         # Scripts multi-plateformes
-└── docs/                   # Documentation
-```
 
 ## 🔧 Scripts disponibles
 
@@ -243,17 +225,18 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 ## 🙏 Remerciements
 
 - Merci à tous les contributeurs
-- Inspiré par les meilleures pratiques d'automatisation système
+- Inspiré par des pratiques d'automatisation système
 - Support de la communauté open source
 
-## 📞 Support
+## 👥 Contributeurs
 
-Si vous rencontrez des problèmes ou avez des questions :
-
-- Ouvrez une [issue](https://github.com/nythique/system-scripts/issues)
-- Consultez la [documentation](docs/)
-- Rejoignez notre communauté
+<a href="https://github.com/nythique/system-scripts/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=nythique/system-scripts" />
+</a>
 
 ---
 
-**Développé avec ❤️ par la communauté System-Scripts**
+Si vous rencontrez des problèmes :
+
+- Ouvrez une [issue](https://github.com/nythique/system-scripts/issues)
+- N'hésitez pas à contribuer 
