@@ -1,9 +1,12 @@
+
 # System-Scripts
+> 🇫🇷 **Version française** | [🇺🇸 English version](README_EN.md)
 
 Une collection complète de scripts d'automatisation système pour Unix, Windows et plateformes croisées.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform](https://img.shields.io/badge/Platform-Unix%20%7C%20Windows%20%7C%20Cross--platform-blue.svg)](https://github.com/nythique/system-scripts)
+
 
 ## 📋 Table des matières
 
