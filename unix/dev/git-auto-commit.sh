@@ -1,0 +1,3 @@
+#!/bin/bash
+# Commit auto avec date
+...

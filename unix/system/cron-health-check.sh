@@ -1,0 +1,3 @@
+#!/bin/bash
+# Vérifie la santé des tâches cron
+...

@@ -1,0 +1,3 @@
+#!/bin/bash
+# Génère un mot de passe fort
+...

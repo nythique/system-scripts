@@ -1,0 +1,3 @@
+@echo off
+REM Vérifie la connexion
+...

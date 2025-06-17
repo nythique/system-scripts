@@ -1,0 +1,3 @@
+#!/bin/bash
+# Vérifie la connectivité réseau
+...

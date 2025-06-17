@@ -1,0 +1,3 @@
+#!/bin/bash
+# Alerte si un disque est presque plein
+...

@@ -1,0 +1,3 @@
+#!/bin/bash
+# Met à jour les paquets selon le système
+...

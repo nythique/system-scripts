@@ -1,0 +1,3 @@
+@echo off
+REM Lance VS Code + serveur
+...
