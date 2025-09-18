@@ -1,3 +1,0 @@
-#!/bin/bash
-# Supprime les fichiers temporaires
-...

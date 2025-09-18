@@ -1,3 +1,0 @@
-#!/bin/bash
-# Alerte batterie faible
-...

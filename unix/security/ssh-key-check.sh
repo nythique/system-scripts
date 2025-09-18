@@ -1,3 +1,0 @@
-#!/bin/bash
-# Vérifie les clés SSH
-...
